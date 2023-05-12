@@ -8,25 +8,25 @@
 **/
 
 
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
+global.owner = ['6288271005021']  
+global.mods = ['6288271005021'] 
+global.prems = ['6288271005021']
+global.nameowner = 'Dill.hfz'
+global.numberowner = '6288271005021' 
 global.mail = 'support@tioprm.my.id' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
-global.namebot = 'BOTCAHX'
+global.dana = 'Chat Owner.'
+global.pulsa = '6288271005021'
+global.gopay = 'Chat Owner.'
+global.namebot = 'RD BotZ'
 global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
-global.web = 'https://github.com/BOTCAHX'
+global.web = 'https://github.com/Dillbotz17'
 global.instagram = 'https://instagram.com/prm2.0'
 global.lolkey = 'yourkey'
 global.btc = 'QaepQXxR' // Daftar di https://api.botcahx.live untuk menggunakan key mu sendiri karena ini hanya 100 limit perhari nya
 global.wm = '© Tio'
 global.watermark = wm
-global.wm2 = '⫹⫺ Tio'
-global.wm3 = '© Tio'
+global.wm2 = '⫹⫺ Dill'
+global.wm3 = '© Dill'
 global.wm4 = '© BotWa'
 global.fla = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text='
 global.wait = '_*Tunggu sedang di proses...*_'
@@ -35,7 +35,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\nR-Dill-MD'
 global.APIs = { // API Prefix
   // name: 'https://website'
   lolhuman: 'https://api.lolhuman.xyz',
